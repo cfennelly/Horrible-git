@@ -1,2 +1,3 @@
 # Horrible-git
-I dont know what im doing
+
+I'm pretty much Walden Schmitt 
